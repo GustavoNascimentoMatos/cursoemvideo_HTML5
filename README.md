@@ -1,2 +1,3 @@
 
-# Curso de HTML5 do Curso Em Vídeo por Gustavo Guanabara
+# Curso de HTML5
+# Curso oferecido no site do Curso Em Vídeo por Gustavo Guanabara
